@@ -4,6 +4,7 @@ This is a simple slider with HTML and CSS(sass) and raw JavaScript .
 
 step 1: Add HTML
 
+```
 <div class="container">
   <div class="slide-box"> (first slide box)
     <div class="number">...</div> (number of an image)
@@ -16,12 +17,11 @@ step 1: Add HTML
   <a href="#" class="prev" onclick="plusSlides(-1)"> (previous slide button)
   <a href="#" class="next" onclick="plusSlides(1)"> (next slide button)
 </div>
-
+```
 step 2: Add CSS
-.
-.
-.
+
 step 3: Add JS
+```
   var slideIndex = 1;   // position of each slide
   showSlides(slideIndex); // call the slide show function
 
