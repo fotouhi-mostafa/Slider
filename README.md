@@ -2,7 +2,7 @@
 
 This is a simple slider with HTML and CSS(sass) and raw JavaScript .
 
-Watch the project live --> ()
+Watch the project live --> (https://mostafafotouhi.github.io/Slider/)
 
 step 1: Add HTML
 
